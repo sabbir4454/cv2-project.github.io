@@ -1,0 +1,106 @@
+*{
+     margin: 0;
+     padding: 0;
+
+}
+body{
+    background-color: rgb(238, 240, 240);
+    font-family: 'Roboto', sans-serif;
+}
+.container
+{
+    width: 1000px;
+    background-color: aqua;
+     margin: 0 auto;
+     padding: 20px;
+}
+
+.profile-image
+{
+width: 100px;
+height: 120;
+border: 3px solid white;
+border-radius: 50%;
+float: left;
+}
+.header-bio{
+  float: left;  
+  padding: 30px;
+
+}
+
+h1,h2,h3,h4,h5,h6{
+    color: rgb(190, 39, 127);
+}
+
+.header-contact
+{
+float: right;
+padding: 30px;
+}
+.header-contact a
+{
+text-decoration:none ;
+color:rgb(79, 11, 168)
+}
+
+.header-contact a:hover
+{
+
+text-decoration:underline;
+color:rgb(14, 12, 12);
+}
+
+.div-clear
+{
+    clear: both;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
